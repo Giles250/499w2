@@ -47,12 +47,8 @@ namespace _499w2
             var minOp = new Minus<int>();
             var mulOp = new Muliply<int>();
             var divOp = new Divide<int>();
-            // add test;
 
             Console.WriteLine("My add(Jimmy) works: " + addOp.call(1, 2));
-
-            // add test;
-            Console.WriteLine("My add works: " + addOp.call(1, 2));
             Console.WriteLine("My minus(Giles) works: " + minOp.call(4, 2));
             Console.WriteLine("My multiply(Andrew) works:" + mulOp.call(5,5));
             Console.WriteLine("My divide(Winter) works: " + divOp.call(16, 2));
