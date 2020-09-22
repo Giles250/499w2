@@ -358,4 +358,5 @@ MigrationBackup/
 .ionide/
 
 gitstat.py
+.mypy_cache
 # End of https://www.toptal.com/developers/gitignore/api/csharpt
