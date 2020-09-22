@@ -6,8 +6,4 @@
     <RootNamespace>_499w2</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="xunit" Version="2.4.0" />
-  </ItemGroup>
-
 </Project>
